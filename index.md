@@ -9,7 +9,7 @@ I am an interdisciplinary scholar specializing in agricultural and biosystems en
 ## Professional Training
 
 - **2023-present:** Postdoc, University of Minnesota Twin Cities
-- **2018-2023:** Ph.D, Zhejiang University
+- **2018-2023:** Ph.D., Zhejiang University
 - **2014-2018:** B.E., Huazhong Agricultural University
 
 ## News
