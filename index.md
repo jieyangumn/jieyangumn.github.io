@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I have rich experience in developing machine/deep learning models and interpreting model responses in the face of uncertainties inherent to agricultural systems. My research involves the development of advanced modeling approaches to investigate subjects concerning sustainable agricultural production under conditions of climate change.
+I am an interdisciplinary scholar specializing in agricultural and biosystems engineering. I have rich experience in developing machine/deep learning models and interpreting model responses in the face of uncertainties inherent to agricultural systems. My research involves the development of advanced modeling approaches to investigate subjects concerning sustainable agricultural production under conditions of climate change.
 
 ## Professional Training
 
@@ -15,8 +15,8 @@ I have rich experience in developing machine/deep learning models and interpreti
 ## News
 
 - **[Jue. 2024]** Our paper on mitigating model uncertainty in fruit quality control using knowledge-guided machine learning has been published in *Postharvest Biology and Technology*.
-- **[Feb. 2024]** Our paper on predicting temperature and streamflow within large-scale stream networks using fairness-preserving graph-based neural network has been accepted by *AAAI-2024*.
-- **[Jan. 2024]** Our paper on large-scale winter wheat mapping using agricultural harvester trajectory has been published in *Computers and Electronics in Agriculture*.
+- **[Feb. 2024]** Our paper on predicting streamflow and temperature within large-scale stream networks using fairness-preserving graph neural network has been accepted by *AAAI-24*.
+- **[Jan. 2024]** Our paper on large-scale winter wheat mapping based on agricultural harvester trajectory has been published in *Computers and Electronics in Agriculture*.
 
 ## Publications
 
