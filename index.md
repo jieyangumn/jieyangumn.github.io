@@ -6,7 +6,7 @@ layout: homepage
 
 I have rich experience in developing machine/deep learning models and interpreting model responses in the face of uncertainties inherent to agricultural systems. My research involves the development of advanced modeling approaches to investigate subjects concerning sustainable agricultural production under conditions of climate change.
 
-## Professional training
+## Professional Training
 
 - **2023-present:** Postdoc, University of Minnesota Twin Cities
 - **2018-2023:** Ph.D, Zhejiang University
@@ -14,7 +14,8 @@ I have rich experience in developing machine/deep learning models and interpreti
 
 ## News
 
-- **[Jue. 2024]** Our paper about Knowledge-guided machine learning is published in Postharvest Biology and Technology.
+- **[Jue. 2024]** Our paper about mitigating model uncertainty in fruit quality control using knowledge-guided machine learning is published in *Postharvest Biology and Technology*.
+- **[Jan. 2024]** Our paper about large-scale winter wheat mapping using agricultural harvester trajectory is published in *Computers and Electronics in Agriculture*.
 
 ## Publications
 
