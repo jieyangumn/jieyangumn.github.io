@@ -29,7 +29,7 @@ I have rich experience in developing machine/deep learning models and interpreti
 * Xu J#, **Yang J#**, Xiong X, Li H, Huang J, Ting KC, Ying Y, & Lin T (2021). Towards interpreting multi-temporal deep learning models in crop mapping. ***Remote Sensing of Environment***, 264, 112599.
 * **Yang J**, Xu J, Zhang X, Wu C, Lin T, & Ying Y (2019). Deep learning for vibrational spectral analysis: Recent progress and a practical guide. ***Analytica Chimica Acta***, 1081, 6-17.
 
-### First/Corresponding Author Publications
+### Coauthored Publications
 * He E, Xie Y, Sun A, Zwart J, **Yang J**, Jin Z, Wang Y, Karimi H, & Jia X (2024). Fair Graph Learning Using Constraint-Aware Priority Adjustment and Graph Masking in River Networks. ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-24)***, 38 (20), 22087-22095.
 * Zheng Y, Cao Y, **Yang J**, & Xie L (2023). Enhancing model robustness through different optimization methods and 1-D CNN to eliminate the variations in size and detection position for apple SSC determination. ***Postharvest Biology and Technology***, 205, 112513.
 * Zhang X, **Yang J**, Lin T, & Ying Y (2021). Food and agro-product quality evaluation based on spectroscopy and deep learning: A review. ***Trends in Food Science & Technology***, 112, 431-441.
