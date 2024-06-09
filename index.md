@@ -26,8 +26,8 @@ I am an interdisciplinary scholar specializing in agricultural and biosystems en
 
 - [6] **Yang J**, Sun Z, Tian S, Jiang H, Feng J, Ting KC, Lin T, & Ying Y (2024). Enhancing spectroscopy-based fruit quality control: A knowledge-guided machine learning approach to reduce model uncertainty. ***Postharvest Biology and Technology***, 216, 113009.
 - [5] Xiong X#, **Yang J#**, Zhong R, Dong J, Huang J, Ting KC, Ying Y, & Lin T (2024). Integration of harvester trajectory and satellite imagery for large-scale winter wheat mapping using deep positive and unlabeled learning. ***Computers and Electronics in Agriculture***, 216, 108487.
-- [4] **Yang J**, Li J, Hu J, Yang W, Zhang X, Xu J, Zhang Y, Luo X, Ting KC, Lin T, & Ying Y (2022). An interpretable deep learning approach for calibration transfer among multiple near-infrared instruments. ***Computers and Electronics in Agriculture***, 192, 106584.
-- [3] **Yang J**, Luo X, Zhang X, Passos D, Xie L, Rao X, Xu H, Ting KC, Lin T, & Ying Y (2022). A deep learning approach to improving spectral analysis of fruit quality under interseason variation. ***Food Control***, 140, 109108.
+- [4] **Yang J**, Luo X, Zhang X, Passos D, Xie L, Rao X, Xu H, Ting KC, Lin T, & Ying Y (2022). A deep learning approach to improving spectral analysis of fruit quality under interseason variation. ***Food Control***, 140, 109108.
+- [3] **Yang J**, Li J, Hu J, Yang W, Zhang X, Xu J, Zhang Y, Luo X, Ting KC, Lin T, & Ying Y (2022). An interpretable deep learning approach for calibration transfer among multiple near-infrared instruments. ***Computers and Electronics in Agriculture***, 192, 106584.
 - [2] Xu J#, **Yang J#**, Xiong X, Li H, Huang J, Ting KC, Ying Y, & Lin T (2021). Towards interpreting multi-temporal deep learning models in crop mapping. ***Remote Sensing of Environment***, 264, 112599.
 - [1] **Yang J**, Xu J, Zhang X, Wu C, Lin T, & Ying Y (2019). Deep learning for vibrational spectral analysis: Recent progress and a practical guide. ***Analytica Chimica Acta***, 1081, 6-17.
 
