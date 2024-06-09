@@ -35,7 +35,10 @@ I have rich experience in developing machine/deep learning models and interpreti
 * Zhang X, **Yang J**, Lin T, & Ying Y (2021). Food and agro-product quality evaluation based on spectroscopy and deep learning: A review. ***Trends in Food Science & Technology***, 112, 431-441.
 * Zhang X, Xu J, **Yang J**, Chen L, Zhou H, Liu X, Li H, Lin T, & Ying Y (2020). Understanding the learning mechanism of convolutional neural networks in spectral analysis. ***Analytica Chimica Acta***, 1119, 41-51.
 
-
+{% comment %}
 {% include_relative _includes/publications.md %}
+{% endcomment %}
 
+{% comment %}
 {% include_relative _includes/services.md %}
+{% endcomment %}
