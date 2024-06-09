@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an interdisciplinary scholar specializing in agricultural and biosystems engineering. I have rich experience in developing machine/deep learning models and interpreting model responses in the face of uncertainties inherent to agricultural systems. My research involves the development of advanced modeling approaches to investigate subjects concerning sustainable agricultural production under conditions of climate change.
+I am an interdisciplinary scholar specializing in agricultural and biosystems engineering. I have rich experience in developing machine/deep learning models and interpreting model responses in the face of uncertainties inherent to agricultural systems. My research involves the development of advanced modeling approaches to investigate subjects concerning sustainable agricultural production under climate change.
 
 ## Professional Training
 
