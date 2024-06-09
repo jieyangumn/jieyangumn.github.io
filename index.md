@@ -14,8 +14,9 @@ I have rich experience in developing machine/deep learning models and interpreti
 
 ## News
 
-- **[Jue. 2024]** Our paper about mitigating model uncertainty in fruit quality control using knowledge-guided machine learning is published in *Postharvest Biology and Technology*.
-- **[Jan. 2024]** Our paper about large-scale winter wheat mapping using agricultural harvester trajectory is published in *Computers and Electronics in Agriculture*.
+- **[Jue. 2024]** Our paper on mitigating model uncertainty in fruit quality control using knowledge-guided machine learning has been published in *Postharvest Biology and Technology*.
+- **[Feb. 2024]** Our paper on predicting temperature and streamflow within large-scale stream networks using fairness-preserving graph-based neural network has been accepted by *AAAI-2024*.
+- **[Jan. 2024]** Our paper on large-scale winter wheat mapping using agricultural harvester trajectory has been published in *Computers and Electronics in Agriculture*.
 
 ## Publications
 
