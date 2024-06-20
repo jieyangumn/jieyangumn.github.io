@@ -39,12 +39,4 @@ I am currently a postdoctoral researcher at the University of Minnesota, collabo
 
 
 ## Hobbies
-- Swimming, Badminton, Basketball, Hiking, Cooking.
-
-{% comment %}
-{% include_relative _includes/publications.md %}
-{% endcomment %}
-
-{% comment %}
-{% include_relative _includes/services.md %}
-{% endcomment %}
+- Swimming, badminton, basketball, hiking, and cooking.
