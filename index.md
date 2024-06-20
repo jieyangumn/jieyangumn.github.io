@@ -5,7 +5,6 @@ layout: homepage
 ## About Me
 
 I am currently a postdoctoral researcher at the University of Minnesota, collaborating with Professor [Zhenong Jin](https://bbe.umn.edu/people/zhenong-jin) in the [Digital Agriculture Group](https://umn-digitalag.com/). I received my Ph.D. degree from the Department of Biosystems Engineering at Zhejiang University, advised by Professors [K.C. Ting](https://abe.illinois.edu/directory/kcting), [Yibin Ying](https://person.zju.edu.cn/en/0089059), and [Tao Lin](https://person.zju.edu.cn/en/lintaolab). My research focuses on developing advanced machine learning approaches to investigate sustainable agricultural production under climate change. 
-{% My name, Jie (杰), was given by my mother, who hoped I would grow into an exceptional individual capable of making a positive impact on the world.%}
 
 ## Research Interests
 
