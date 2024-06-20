@@ -9,7 +9,7 @@ I am currently a postdoctoral researcher at the University of Minnesota, collabo
 ## Research Interests:
 
 - **Biogeochemical Processes in Agroecosystems:** Water, carbon, and nitrogen cycles, Water quality management.
-- **Satellite-based Crop Monitoring:** Land cover/use mapping, Crop yield prediction.
+- **Satellite-based Cropland Monitoring:** Land cover/use mapping, Crop yield prediction.
 - **Postharvest Technologies for Agroproducts:** Quality control, Agricultural robotics.
 
 ## News
