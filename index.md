@@ -37,6 +37,10 @@ I am currently a postdoctoral researcher at the University of Minnesota, collabo
 - [2] Zhang X, **Yang J**, Lin T, & Ying Y (2021). Food and agro-product quality evaluation based on spectroscopy and deep learning: A review. ***Trends in Food Science & Technology***, 112, 431-441. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0924224421002600)
 - [1] Zhang X, Xu J, **Yang J**, Chen L, Zhou H, Liu X, Li H, Lin T, & Ying Y (2020). Understanding the learning mechanism of convolutional neural networks in spectral analysis. ***Analytica Chimica Acta***, 1119, 41-51. [Link](https://www.sciencedirect.com/science/article/pii/S0003267020303767)
 
+
+## Hobbies
+- Swimming, Badminton, Basketball, Hiking, Cooking.
+
 {% comment %}
 {% include_relative _includes/publications.md %}
 {% endcomment %}
