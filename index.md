@@ -14,7 +14,7 @@ I am currently a postdoctoral researcher at the University of Minnesota, collabo
 
 ## News
 
-- **[Jun. 2024]** I will deliver a poster presentation on our sensor-model fusion framework for nutrient management at [*NSF Signal in the Soil (SitS) Workshop*](https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/signals-in-the-soil/).
+- **[Jun. 2024]** I will deliver a poster presentation on our sensor-model fusion framework for sustainable nutrient management at [*NSF Signal in the Soil (SitS) Workshop*](https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/signals-in-the-soil/).
 - **[Jun. 2024]** Our paper on mitigating model uncertainty in fruit quality control using knowledge-guided machine learning has been published in [*Postharvest Biology and Technology*](https://www.sciencedirect.com/science/article/pii/S0925521424002540).
 - **[Apr. 2024]** I delivered a poster presentation on our research simulating nitrate levels at the river segment scale during [*ASABE North Central Regional Section Meeting*](https://www.asabe.org/).
 - **[Mar. 2024]** Our paper on predicting streamflow and temperature within large-scale stream networks using a fairness-aware graph neural network has been published in [*AAAI-24*](https://ojs.aaai.org/index.php/AAAI/article/view/30212).
