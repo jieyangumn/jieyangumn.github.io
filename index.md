@@ -15,6 +15,7 @@ I am currently a postdoctoral researcher at the University of Minnesota, collabo
 ## News
 
 - **[Jun. 2024]** Our paper on mitigating model uncertainty in fruit quality control using knowledge-guided machine learning has been published in *Postharvest Biology and Technology*. [Link](https://www.sciencedirect.com/science/article/pii/S0925521424002540)
+- **[Apr. 2024]** I delivered a poster presentation at the ASABE North Central Section Meeting, showcasing research on nitrate concentration simulation in river segments.
 - **[Mar. 2024]** Our paper on predicting streamflow and temperature within large-scale stream networks using a fairness-preserving graph neural network has been published in *AAAI-24*. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/30212)
 - **[Jan. 2024]** Our paper on large-scale winter wheat mapping based on agricultural harvester trajectory has been published in *Computers and Electronics in Agriculture*. [Link](https://www.sciencedirect.com/science/article/pii/S016816992300875X)
 
