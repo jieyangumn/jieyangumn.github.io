@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a postdoctoral researcher at the University of Minnesota, working with Professor [Zhenong Jin](https://bbe.umn.edu/people/zhenong-jin) in the [Digital Agriculture Group](https://umn-digitalag.com/). I collaborate closely with Professors [Vipin Kumar](https://cse.umn.edu/cs/vipin-kumar) and [Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/). I received my Ph.D. degree from the Department of Biosystems Engineering at Zhejiang University, advised by Professors [K.C. Ting](https://abe.illinois.edu/directory/kcting), [Yibin Ying](https://person.zju.edu.cn/en/0089059), and [Tao Lin](https://person.zju.edu.cn/en/lintaolab). My research focuses on developing advanced machine learning approaches to investigate sustainable agricultural production under climate change. 
+I am currently a postdoctoral researcher at the University of Minnesota, working with Professor [Zhenong Jin](https://bbe.umn.edu/people/zhenong-jin) in the [Digital Agriculture Group](https://umn-digitalag.com/). I closely collaborate with Professors [Vipin Kumar](https://cse.umn.edu/cs/vipin-kumar) and [Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/) on interdisciplinary projects. I received my Ph.D. degree from the Department of Biosystems Engineering at Zhejiang University, advised by Professors [K.C. Ting](https://abe.illinois.edu/directory/kcting), [Yibin Ying](https://person.zju.edu.cn/en/0089059), and [Tao Lin](https://person.zju.edu.cn/en/lintaolab). My research focuses on developing advanced machine learning approaches to investigate sustainable agricultural production under climate change. 
 
 ## Research Interests
 
@@ -14,9 +14,9 @@ I am currently a postdoctoral researcher at the University of Minnesota, working
 
 ## News
 
-- **[2024/06]** I will deliver a poster presentation on our sensor-model fusion framework for sustainable nutrient management at [*NSF Signals in the Soil (SitS) Workshop*](https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/signals-in-the-soil/).
+- **[2024/06]** I delivered a poster presentation on our sensor-model fusion framework for sustainable soil nutrient management at [*NSF Signals in the Soil (SitS) Workshop*](https://padlet.com/jenniferwickens/hybrid-sits-workshop-25-27-june-2024-e50s22hpitxcvkhx).
 - **[2024/06]** Our paper on mitigating model uncertainty in fruit quality control using knowledge-guided machine learning has been published in [*Postharvest Biology and Technology*](https://www.sciencedirect.com/science/article/pii/S0925521424002540).
-- **[2024/04]** I delivered a poster presentation on our research simulating nitrate levels at the river segment scale during [*ASABE North Central Regional Section Meeting*](https://www.asabe.org/).
+- **[2024/04]** I delivered a poster presentation on our research simulating nitrate levels at the river segment scale during [*ASABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
 - **[2024/03]** Our paper on predicting streamflow and temperature within large-scale stream networks using a fairness-aware graph neural network has been published in [*AAAI-24*](https://ojs.aaai.org/index.php/AAAI/article/view/30212).
 - **[2024/01]** Our paper on large-scale winter wheat mapping based on satellite imagery and harvester trajectory has been published in [*Computers and Electronics in Agriculture*](https://www.sciencedirect.com/science/article/pii/S016816992300875X).
 
