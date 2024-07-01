@@ -14,7 +14,7 @@ I am currently a postdoctoral researcher at the University of Minnesota, working
 
 ## News
 
-- **[2024/07]** Our study on reviewing advanced chemometrics and deep learning toward robust spectral analysis for fruit quality has been accepted by [*Trends in Food Science & Technology*](https://www.sciencedirect.com/journal/trends-in-food-science-and-technology).
+- **[2024/07]** Our study on tracing advanced chemometrics and deep learning toward robust spectral analysis for fruit quality has been accepted by [*Trends in Food Science & Technology*](https://www.sciencedirect.com/journal/trends-in-food-science-and-technology).
 - **[2024/06]** I delivered a poster presentation on our sensor-model fusion framework for sustainable soil nutrient management at [*NSF Signals in the Soil (SitS) Workshop*](https://padlet.com/jenniferwickens/hybrid-sits-workshop-25-27-june-2024-e50s22hpitxcvkhx).
 - **[2024/06]** Our study on mitigating model uncertainty in fruit quality control using knowledge-guided machine learning has been published in [*Postharvest Biology and Technology*](https://www.sciencedirect.com/science/article/pii/S0925521424002540).
 - **[2024/04]** I delivered a poster presentation on our research simulating nitrate levels at the river segment scale at [*ASABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
