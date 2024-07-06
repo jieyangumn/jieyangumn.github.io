@@ -26,7 +26,7 @@ I am currently a postdoctoral researcher at the University of Minnesota, working
 ### First/Corresponding Author Publications 
 
 (* for corresponding author, # for equal contribution)
-- [7] Zhang X & **Yang J&#42;** (2024). Advanced chemometrics toward robust spectral analysis for fruit quality evaluation. ***Trends in Food Science & Technology***, 104612. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0924224424002887)
+- [7] Zhang X & **Yang J&#42;** (2024). Advanced chemometrics toward robust spectral analysis for fruit quality evaluation. ***Trends in Food Science & Technology***, 150, 104612. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0924224424002887)
 - [6] **Yang J**, Sun Z, Tian S, Jiang H, Feng J, Ting KC, Lin T, & Ying Y (2024). Enhancing spectroscopy-based fruit quality control: A knowledge-guided machine learning approach to reduce model uncertainty. ***Postharvest Biology and Technology***, 216, 113009. [Link](https://www.sciencedirect.com/science/article/pii/S0925521424002540)
 - [5] Xiong X#, **Yang J#**, Zhong R, Dong J, Huang J, Ting KC, Ying Y, & Lin T (2024). Integration of harvester trajectory and satellite imagery for large-scale winter wheat mapping using deep positive and unlabeled learning. ***Computers and Electronics in Agriculture***, 216, 108487. [Link](https://www.sciencedirect.com/science/article/pii/S016816992300875X)
 - [4] **Yang J**, Luo X, Zhang X, Passos D, Xie L, Rao X, Xu H, Ting KC, Lin T, & Ying Y (2022). A deep learning approach to improving spectral analysis of fruit quality under interseason variation. ***Food Control***, 140, 109108. [Link](https://www.sciencedirect.com/science/article/pii/S0956713522003012)
