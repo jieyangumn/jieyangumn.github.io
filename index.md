@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a postdoctoral researcher at the University of Minnesota, working with Professor [Zhenong Jin](https://umn-digitalag.com/) in the [Digital Agriculture Group](https://umn-digitalag.com/). My research focuses on developing advanced machine learning approaches to investigate sustainable agricultural production under climate change. I received my Ph.D. in Biosystems Engineering from Zhejiang University, where I was advised by Professors [K.C. Ting](https://abe.illinois.edu/directory/kcting), [Yibin Ying](https://person.zju.edu.cn/en/0089059), and [Tao Lin](https://person.zju.edu.cn/en/lintaolab).
+I am currently a postdoctoral researcher at the University of Minnesota, working with Professor [Zhenong Jin](https://umn-digitalag.com/people/) in the [Digital Agriculture Group](https://umn-digitalag.com/). My research focuses on developing advanced machine learning approaches to investigate sustainable agricultural production under climate change. I received my Ph.D. in Biosystems Engineering from Zhejiang University, where I was advised by Professors [K.C. Ting](https://abe.illinois.edu/directory/kcting), [Yibin Ying](https://person.zju.edu.cn/en/0089059), and [Tao Lin](https://person.zju.edu.cn/en/lintaolab).
 
 ## Research Interests
 
