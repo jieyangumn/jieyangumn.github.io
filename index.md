@@ -4,7 +4,6 @@ layout: homepage
 
 ## About Me
 I am currently a postdoctoral researcher at the University of Illinois Urbana-Champaign, working with Professors [Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/) and [Bin Peng](https://pengbinpeluo.github.io/). My research focuses on developing advanced machine learning approaches to investigate sustainable agricultural production under climate change. 
-
 I received my Ph.D. in Biosystems Engineering from Zhejiang University, where I was advised by Professors [K.C. Ting](https://abe.illinois.edu/directory/kcting), [Yibin Ying](https://person.zju.edu.cn/en/0089059), and [Tao Lin](https://person.zju.edu.cn/en/lintaolab). I completed my first postdoctoral training at the University of Minnesota Twin Cities with Professor [Zhenong Jin](https://umn-digitalag.com/).
 
 
