@@ -15,13 +15,13 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ## News
 - **[2024/10]** A collaborative study I contributed to has been published in [*Food Chemistry*](https://www.sciencedirect.com/science/article/pii/S0308814624031388).
-- **[2024/09]** I’m glad to share that I’m starting a new postdoctoral position at UIUC.
+- **[2024/09]** I’m excited to start my new postdoctoral position at [*UIUC*](https://asc.illinois.edu/).
 - **[2024/09]** I’m glad to share that I’ve been honored as a recipient in the Impactful Research category at the [*2024 UMN Postdoc Awards*](https://pda.umn.edu/awards/annual-umn-postdoc-awards/2024).
-- **[2024/09]** A collaborative study I contributed to has been published in [*Postharvest Biology and Technology*](https://www.sciencedirect.com/science/article/pii/S092552142400423X).
+- **[2024/09]** A collaborative study has been published in [*Postharvest Biology and Technology*](https://www.sciencedirect.com/science/article/pii/S092552142400423X).
 - **[2024/07]** Our study on tracing advanced chemometrics and deep learning toward robust spectral analysis for quality control has been published in [*Trends in Food Science & Technology*](https://www.sciencedirect.com/science/article/abs/pii/S0924224424002887).
-- **[2024/06]** I delivered a poster presentation on our sensor-model fusion framework for sustainable soil nutrient management at [*NSF Signals in the Soil (SitS) Workshop*](https://padlet.com/jenniferwickens/hybrid-sits-workshop-25-27-june-2024-e50s22hpitxcvkhx).
+- **[2024/06]** I have presented a poster on our sensor-model fusion framework for sustainable soil nutrient management at [*NSF Signals in the Soil (SitS) Workshop*](https://padlet.com/jenniferwickens/hybrid-sits-workshop-25-27-june-2024-e50s22hpitxcvkhx).
 - **[2024/06]** Our study on mitigating model uncertainty in fruit quality control using knowledge-guided machine learning has been published in [*Postharvest Biology and Technology*](https://www.sciencedirect.com/science/article/pii/S0925521424002540).
-- **[2024/04]** I delivered a poster presentation on our research simulating nitrogen dynamics at the crop field scale at [*ASABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
+- **[2024/04]** I have delivered a poster presentation on our research simulating nitrogen dynamics at the crop field scale at [*ASABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
 - **[2024/03]** A collaborative study I contributed to has been published in [*AAAI-24*](https://ojs.aaai.org/index.php/AAAI/article/view/30212).
 - **[2024/01]** Our study on large-scale winter wheat mapping based on satellite imagery and harvester trajectory has been published in [*Computers and Electronics in Agriculture*](https://www.sciencedirect.com/science/article/pii/S016816992300875X).
 
