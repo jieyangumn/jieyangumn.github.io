@@ -49,7 +49,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## Academic Services
-- Guest Editor for the journal of ***Agronomy*** special issue titled "Advanced Machine Learning and Multimodal Data Fusion Techniques for Quality Evaluation of Agroproducts."
+<!-- - Guest Editor for the journal of ***Agronomy*** special issue titled "Advanced Machine Learning and Multimodal Data Fusion Techniques for Quality Evaluation of Agroproducts." -->
 - Manuscript Reviewer for journals including ***Computers and Electronics in Agriculture*** and others.
 
 ## Hobbies
