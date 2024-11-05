@@ -25,6 +25,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - **[2024/03]** A collaborative study I contributed to has been published in [*AAAI-24*](https://ojs.aaai.org/index.php/AAAI/article/view/30212).
 - **[2024/01]** Our study on large-scale winter wheat mapping based on satellite imagery and harvester trajectory has been published in [*Computers and Electronics in Agriculture*](https://www.sciencedirect.com/science/article/pii/S016816992300875X).
 
+
 ## Publications
 
 ### First/Corresponding Author Publications 
@@ -46,6 +47,10 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - [2] Zhang X, **Yang J**, Lin T, & Ying Y (2021). Food and agro-product quality evaluation based on spectroscopy and deep learning: A review. ***Trends in Food Science & Technology***, 112, 431-441. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0924224421002600)
 - [1] Zhang X, Xu J, **Yang J**, Chen L, Zhou H, Liu X, Li H, Lin T, & Ying Y (2020). Understanding the learning mechanism of convolutional neural networks in spectral analysis. ***Analytica Chimica Acta***, 1119, 41-51. [Link](https://www.sciencedirect.com/science/article/pii/S0003267020303767)
 
+
+## Academic Service
+- Guest Editor for the journal of *Agronomy* special issue titled "Advanced Machine Learning and Multimodal Data Fusion Techniques for Quality Evaluation of Agroproducts."
+- Manuscript reviewer for journals including *Computers and Electronics in Agriculture* and others.
 
 ## Hobbies
 - Swimming, badminton, basketball, hiking, photography, and cooking.
