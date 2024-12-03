@@ -53,9 +53,3 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ## Hobbies
 - Swimming, badminton, basketball, hiking, photography, and cooking.
-
-
-## Visitor Locations
-<div>
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=GiLFE3CfB2tOarH1flT1Za6MXvd_c_Y6z-EKMnA6AwA'></script>
-</div>
