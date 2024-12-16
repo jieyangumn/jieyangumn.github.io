@@ -14,6 +14,8 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## News
+
+- **[2024/12]**  I have delivered a talk on our graph machine learning approach for watershed nutrients prediction at [*American Geophysical Union Annual Meeting (AGU24)*](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/235613).
 - **[2024/10]** A collaborative study I contributed to has been published in [*Food Chemistry*](https://www.sciencedirect.com/science/article/pii/S0308814624031388).
 - **[2024/09]** I’m excited to start my new postdoctoral position at [*UIUC*](https://asc.illinois.edu/).
 - **[2024/09]** I’m glad to share that I’ve been recognized as a winner in the Impactful Research category at the [*2024 UMN Postdoc Awards*](https://pda.umn.edu/awards/annual-umn-postdoc-awards/2024).
