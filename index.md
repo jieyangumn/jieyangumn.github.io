@@ -54,7 +54,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## Academic Services
-- Manuscript Reviewer for journals including ***Computers and Electronics in Agriculture***, ***Journal of Field Robotics***, ***Hydrological Processes***, ***Journal of Food Measurement and Characterization***, ***Remote Sensing***, and others.
+- Manuscript Reviewer for journals including ***Computers and Electronics in Agriculture***, ***Journal of Field Robotics***, ***Hydrological Processes***, ***Journal of Food Measurement and Characterization***, ***Remote Sensing***, etc.
 
 ## Hobbies
 - Swimming, badminton, basketball, hiking, photography, and cooking.
