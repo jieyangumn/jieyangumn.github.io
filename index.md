@@ -43,6 +43,8 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - [1] **Yang J**, Xu J, Zhang X, Wu C, Lin T, & Ying Y (2019). Deep learning for vibrational spectral analysis: Recent progress and a practical guide. ***Analytica Chimica Acta***, 1081, 6-17. [Link](https://www.sciencedirect.com/science/article/pii/S0003267019307342)
 
 ### Coauthor Publications
+- [8] Wang S, Chen C, Le X, Xu Q, Xu L, Zhang Y, & **Yang J** (2025). CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs. ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-25)***. [Link](https://arxiv.org/abs/2412.19663)
+- [7] Sun Z, **Yang J**, Yao Y, Hu D, Ying Y, Guo J, & Xie L (2025). Knowledge-guided temperature correction method for soluble solids content detection of watermelon based on Vis/NIR spectroscopy. ***Artificial Intelligence in Agriculture***, 15(1), 88-97. [Link](https://www.sciencedirect.com/science/article/pii/S2589721725000042)
 - [6] Sun Z, Tian H, Hu D, **Yang J**, Xie L, Xu H, & Ying Y (2025). Integrating deep learning and data fusion for enhanced oranges soluble solids content prediction using machine vision and Vis/NIR spectroscopy. ***Food Chemistry***, 464, 141488. [Link](https://www.sciencedirect.com/science/article/pii/S0308814624031388)
 - [5] Sun Z, **Yang J**, Hu D, Tian H, Ying Y, & Xie L (2024). Using knowledge-guided temperature correction for online non-destructive detection of soluble solids content in pear via Vis/NIR spectroscopy. ***Postharvest Biology and Technology***, 218, 113178. [Link](https://www.sciencedirect.com/science/article/pii/S092552142400423X) 
 - [4] He E, Xie Y, Sun A, Zwart J, **Yang J**, Jin Z, Wang Y, Karimi H, & Jia X (2024). Fair Graph Learning Using Constraint-Aware Priority Adjustment and Graph Masking in River Networks. ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-24)***, 38 (20), 22087-22095. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/30212)
@@ -52,7 +54,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## Academic Services
-- Manuscript Reviewer for journals including ***Computers and Electronics in Agriculture***, ***Hydrological Processes***, ***Remote Sensing***, and others.
+- Manuscript Reviewer for journals including ***Computers and Electronics in Agriculture***, ***Journal of Field Robotics***, ***Hydrological Processes***, ***Remote Sensing***, and others.
 
 ## Hobbies
 - Swimming, badminton, basketball, hiking, photography, and cooking.
