@@ -43,6 +43,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - [1] **Yang J**, Xu J, Zhang X, Wu C, Lin T, & Ying Y (2019). Deep learning for vibrational spectral analysis: Recent progress and a practical guide. ***Analytica Chimica Acta***, 1081, 6-17. [Link](https://www.sciencedirect.com/science/article/pii/S0003267019307342)
 
 ### Coauthor Publications
+- [9] Ma Z, Peng B, Yue Z, Zeng H, Pan M, **Yang J**, Mai L, & Guan K (2025). Embracing Large Language Model (LLM) Technologies in Hydrology Research. ***EarthArXiv***. [Link](https://eartharxiv.org/repository/view/8738)
 - [8] Wang S, Chen C, Le X, Xu Q, Xu L, Zhang Y, & **Yang J** (2025). CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs. ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-25)***. [Link](https://arxiv.org/abs/2412.19663)
 - [7] Sun Z, **Yang J**, Yao Y, Hu D, Ying Y, Guo J, & Xie L (2025). Knowledge-guided temperature correction method for soluble solids content detection of watermelon based on Vis/NIR spectroscopy. ***Artificial Intelligence in Agriculture***, 15(1), 88-97. [Link](https://www.sciencedirect.com/science/article/pii/S2589721725000042)
 - [6] Sun Z, Tian H, Hu D, **Yang J**, Xie L, Xu H, & Ying Y (2025). Integrating deep learning and data fusion for enhanced oranges soluble solids content prediction using machine vision and Vis/NIR spectroscopy. ***Food Chemistry***, 464, 141488. [Link](https://www.sciencedirect.com/science/article/pii/S0308814624031388)
