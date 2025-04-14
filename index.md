@@ -15,8 +15,8 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ## News
 
-- **[2025/04]** A collaborative study on leveraging LLMs for computer-aided design has been accepted by [*AAAI-25*](https://ojs.aaai.org/index.php/AAAI/article/view/32849).
-- **[2025/03]** A new preprint on Large Language Models for hydrology is now available on [*EarthArXiv*](https://eartharxiv.org/repository/view/8738/).
+- **[2025/04]** A collaborative study on LLMs for CAD has been accepted by [*AAAI-25*](https://ojs.aaai.org/index.php/AAAI/article/view/32849).
+- **[2025/03]** A new preprint on LLMs for hydrology is now available on [*EarthArXiv*](https://eartharxiv.org/repository/view/8738/).
 - **[2025/01]** A collaborative study has been published in [*Artificial Intelligence in Agriculture*](https://www.sciencedirect.com/science/article/pii/S2589721725000042).
 - **[2024/12]** I have delivered a talk on our graph machine learning approach for watershed nutrients prediction at [*American Geophysical Union Annual Meeting (AGU24)*](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/235613).
 - **[2024/10]** A collaborative study has been published in [*Food Chemistry*](https://www.sciencedirect.com/science/article/pii/S0308814624031388).
@@ -27,7 +27,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - **[2024/06]** I have presented a poster on our sensor-model fusion framework for sustainable soil nutrient management at [*NSF Signals in the Soil (SitS) Workshop*](https://padlet.com/jenniferwickens/hybrid-sits-workshop-25-27-june-2024-e50s22hpitxcvkhx).
 - **[2024/06]** Our study on mitigating model uncertainty in fruit quality control using knowledge-guided machine learning has been published in [*Postharvest Biology and Technology*](https://www.sciencedirect.com/science/article/pii/S0925521424002540).
 - **[2024/04]** I have delivered a poster presentation on our research simulating nitrogen dynamics at the crop field scale at [*ASABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
-- **[2024/03]** A collaborative study on fairness-aware graph machine learning has been accepted by [*AAAI-24*](https://ojs.aaai.org/index.php/AAAI/article/view/30212).
+- **[2024/03]** A collaborative study on fairness-aware GNNs has been accepted by [*AAAI-24*](https://ojs.aaai.org/index.php/AAAI/article/view/30212).
 - **[2024/01]** Our study on large-scale winter wheat mapping based on satellite imagery and harvester trajectory has been published in [*Computers and Electronics in Agriculture*](https://www.sciencedirect.com/science/article/pii/S016816992300875X).
 
 
