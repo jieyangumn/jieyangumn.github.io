@@ -15,10 +15,11 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ## News
 
-- **[2025/03]** Our new preprint on LLMs for hydrology is now available on [*EarthArXiv*](https://eartharxiv.org/repository/view/8738/).
-- **[2025/01]** A collaborative study I contributed to has been published in [*Artificial Intelligence in Agriculture*](https://www.sciencedirect.com/science/article/pii/S2589721725000042).
-- **[2024/12]**  I have delivered a talk on our graph machine learning approach for watershed nutrients prediction at [*American Geophysical Union Annual Meeting (AGU24)*](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/235613).
-- **[2024/10]** A collaborative study I contributed to has been published in [*Food Chemistry*](https://www.sciencedirect.com/science/article/pii/S0308814624031388).
+- **[2025/04]** A collaborative study on leveraging LLMs for computer-aided design has been accepted by [*AAAI-25*](https://ojs.aaai.org/index.php/AAAI/article/view/32849).
+- **[2025/03]** A new preprint on Large Language Models for hydrology is now available on [*EarthArXiv*](https://eartharxiv.org/repository/view/8738/).
+- **[2025/01]** A collaborative study has been published in [*Artificial Intelligence in Agriculture*](https://www.sciencedirect.com/science/article/pii/S2589721725000042).
+- **[2024/12]** I have delivered a talk on our graph machine learning approach for watershed nutrients prediction at [*American Geophysical Union Annual Meeting (AGU24)*](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/235613).
+- **[2024/10]** A collaborative study has been published in [*Food Chemistry*](https://www.sciencedirect.com/science/article/pii/S0308814624031388).
 - **[2024/09]** I’m excited to start my new postdoctoral position at [*UIUC*](https://asc.illinois.edu/).
 - **[2024/09]** I’m glad to share that I’ve been recognized as a winner in the Impactful Research category at the [*2024 UMN Postdoc Awards*](https://pda.umn.edu/awards/annual-umn-postdoc-awards/2024).
 - **[2024/09]** A collaborative study has been published in [*Postharvest Biology and Technology*](https://www.sciencedirect.com/science/article/pii/S092552142400423X).
@@ -26,7 +27,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - **[2024/06]** I have presented a poster on our sensor-model fusion framework for sustainable soil nutrient management at [*NSF Signals in the Soil (SitS) Workshop*](https://padlet.com/jenniferwickens/hybrid-sits-workshop-25-27-june-2024-e50s22hpitxcvkhx).
 - **[2024/06]** Our study on mitigating model uncertainty in fruit quality control using knowledge-guided machine learning has been published in [*Postharvest Biology and Technology*](https://www.sciencedirect.com/science/article/pii/S0925521424002540).
 - **[2024/04]** I have delivered a poster presentation on our research simulating nitrogen dynamics at the crop field scale at [*ASABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
-- **[2024/03]** A collaborative study I contributed to has been published in [*AAAI-24*](https://ojs.aaai.org/index.php/AAAI/article/view/30212).
+- **[2024/03]** A collaborative study on fairness-aware graph machine learning has been accepted by [*AAAI-24*](https://ojs.aaai.org/index.php/AAAI/article/view/30212).
 - **[2024/01]** Our study on large-scale winter wheat mapping based on satellite imagery and harvester trajectory has been published in [*Computers and Electronics in Agriculture*](https://www.sciencedirect.com/science/article/pii/S016816992300875X).
 
 
@@ -45,7 +46,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ### Coauthor Publications
 - [9] Ma Z, Peng B, Yue Z, Zeng H, Pan M, **Yang J**, Mai L, & Guan K (2025). Embracing Large Language Model (LLM) Technologies in Hydrology Research. ***EarthArXiv***. [Link](https://eartharxiv.org/repository/view/8738)
-- [8] Wang S, Chen C, Le X, Xu Q, Xu L, Zhang Y, & **Yang J** (2025). CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs. ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-25)***. [Link](https://arxiv.org/abs/2412.19663)
+- [8] Wang S, Chen C, Le X, Xu Q, Xu L, Zhang Y, & **Yang J** (2025). CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs. ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-25)***, 39 (8), 7880-7888. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/32849)
 - [7] Sun Z, **Yang J**, Yao Y, Hu D, Ying Y, Guo J, & Xie L (2025). Knowledge-guided temperature correction method for soluble solids content detection of watermelon based on Vis/NIR spectroscopy. ***Artificial Intelligence in Agriculture***, 15(1), 88-97. [Link](https://www.sciencedirect.com/science/article/pii/S2589721725000042)
 - [6] Sun Z, Tian H, Hu D, **Yang J**, Xie L, Xu H, & Ying Y (2025). Integrating deep learning and data fusion for enhanced oranges soluble solids content prediction using machine vision and Vis/NIR spectroscopy. ***Food Chemistry***, 464, 141488. [Link](https://www.sciencedirect.com/science/article/pii/S0308814624031388)
 - [5] Sun Z, **Yang J**, Hu D, Tian H, Ying Y, & Xie L (2024). Using knowledge-guided temperature correction for online non-destructive detection of soluble solids content in pear via Vis/NIR spectroscopy. ***Postharvest Biology and Technology***, 218, 113178. [Link](https://www.sciencedirect.com/science/article/pii/S092552142400423X) 
