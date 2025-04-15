@@ -15,7 +15,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ## News
 
-- **[2025/04]** A collaborative study on LLMs for CAD has been accepted by [*AAAI-25*](https://ojs.aaai.org/index.php/AAAI/article/view/32849).
+- **[2025/04]** A collaborative study on LLM applications has been accepted by [*AAAI-25*](https://ojs.aaai.org/index.php/AAAI/article/view/32849).
 - **[2025/03]** A new preprint on LLMs for hydrology is now available on [*EarthArXiv*](https://eartharxiv.org/repository/view/8738/).
 - **[2025/01]** A collaborative study has been published in [*Artificial Intelligence in Agriculture*](https://www.sciencedirect.com/science/article/pii/S2589721725000042).
 - **[2024/12]** I have delivered a talk on our graph machine learning approach for watershed nutrients prediction at [*American Geophysical Union Annual Meeting (AGU24)*](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/235613).
