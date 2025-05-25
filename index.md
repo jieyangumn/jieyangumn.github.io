@@ -14,7 +14,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## News
-- **[2025/05]** I gave a talk on spatially distributed watershed modeling in the Upper Mississippi River Basin at [*Society for Freshwater Science 2025 Annual Meeting*](https://sfs-2025.p.asnevents.com.au/days/2025-05-19/abstract/117931)).
+- **[2025/05]** I gave a talk on spatially distributed watershed modeling in the Upper Mississippi River Basin at [*Society for Freshwater Science 2025 Annual Meeting*](https://sfs-2025.p.asnevents.com.au/days/2025-05-19/abstract/117931).
 - **[2025/04]** A collaborative study on LLM applications has been accepted by [*AAAI-25*](https://ojs.aaai.org/index.php/AAAI/article/view/32849).
 - **[2025/03]** A new preprint on LLMs for hydrology is now available on [*EarthArXiv*](https://eartharxiv.org/repository/view/8738/).
 - **[2025/01]** A collaborative study has been published in [*Artificial Intelligence in Agriculture*](https://www.sciencedirect.com/science/article/pii/S2589721725000042).
