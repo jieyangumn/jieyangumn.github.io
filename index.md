@@ -57,8 +57,9 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## Academic Services
-- Manuscript Reviewer for multiple peer-reviewed journals including ***Computers and Electronics in Agriculture***, ***Journal of Hydrology***, ***Journal of Field Robotics***, etc.
-- Early Career Session Convener, American Geophysical Union (AGU) Annual Meeting 2025.
+- Manuscript Reviewer for peer-reviewed journals including ***Computers and Electronics in Agriculture***, ***Journal of Hydrology***, ***Journal of Field Robotics***, etc.
+- Early Career Session Convener, American Geophysical Union (AGU) Annual Meeting, 2025.
+- Program Committee Member, AAAI Conference on Artificial Intelligence (AAAI), 2026.
 
 ## Hobbies
 - Swimming, badminton, basketball, hiking, photography, and cooking.
