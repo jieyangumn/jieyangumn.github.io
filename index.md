@@ -14,9 +14,9 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## News
+- **[2025/06]** Our perspective article exploring the application of LLMs in hydrology has been published in [*Environmental Research: Water*](https://iopscience.iop.org/article/10.1088/3033-4942/addd43).
 - **[2025/05]** I gave a talk on spatially distributed watershed modeling in the Upper Mississippi River Basin at [*Society for Freshwater Science 2025 Annual Meeting*](https://sfs-2025.p.asnevents.com.au/days/2025-05-19/abstract/117931).
-- **[2025/04]** A collaborative study on LLM applications has been accepted by [*AAAI-25*](https://ojs.aaai.org/index.php/AAAI/article/view/32849).
-- **[2025/03]** A new preprint on LLMs for hydrology is now available on [*EarthArXiv*](https://eartharxiv.org/repository/view/8738/).
+- **[2025/04]** Our collaborative study introducing spatial reasoning-enhanced multimodal LLMs for CAD model synthesis has been accepted by [*AAAI-25*](https://ojs.aaai.org/index.php/AAAI/article/view/32849).
 - **[2025/01]** A collaborative study has been published in [*Artificial Intelligence in Agriculture*](https://www.sciencedirect.com/science/article/pii/S2589721725000042).
 - **[2024/12]** I have delivered a talk on our graph machine learning approach for watershed nutrients prediction at [*American Geophysical Union Annual Meeting (AGU24)*](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/235613).
 - **[2024/10]** A collaborative study has been published in [*Food Chemistry*](https://www.sciencedirect.com/science/article/pii/S0308814624031388).
@@ -56,10 +56,8 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - [1] Zhang X, Xu J, **Yang J**, Chen L, Zhou H, Liu X, Li H, Lin T, & Ying Y (2020). Understanding the learning mechanism of convolutional neural networks in spectral analysis. ***Analytica Chimica Acta***, 1119, 41-51. [Link](https://www.sciencedirect.com/science/article/pii/S0003267020303767)
 
 
-## Academic Services
-- Manuscript Reviewer for peer-reviewed journals including ***Computers and Electronics in Agriculture***, ***Journal of Hydrology***, ***Journal of Field Robotics***, etc.
-- Early Career Session Convener, American Geophysical Union (AGU) Annual Meeting, 2025.
-- Program Committee Member, AAAI Conference on Artificial Intelligence (AAAI), 2026.
-
-## Hobbies
-- Swimming, badminton, basketball, hiking, photography, and cooking.
+## Academic Services and Honors
+- **Manuscript Reviewer** for peer-reviewed journals including ***Computers and Electronics in Agriculture***, ***Journal of Hydrology***, ***Journal of Field Robotics***, etc.
+- **Impactful Research Awardee**, 2024 UMN Postdoc Awards (1 of 4 recipients across the University of Minnesota System).
+- **Session Convener (Early Career)**, American Geophysical Union (AGU) Annual Meeting, 2025.
+- **Program Committee Member**, AAAI Conference on Artificial Intelligence (AAAI), 2026.
