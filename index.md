@@ -14,6 +14,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## News
+- **[2025/08]** Our study on explicable attention mechanisms to improve fruit quality control has been published in [*Computers and Electronics in Agriculture*](https://www.sciencedirect.com/science/article/pii/S0168169925009548).
 - **[2025/06]** Our perspective article exploring the application of LLMs in hydrology has been published in [*Environmental Research: Water*](https://iopscience.iop.org/article/10.1088/3033-4942/addd43).
 - **[2025/05]** I gave a talk on spatially distributed watershed modeling in the Upper Mississippi River Basin at [*Society for Freshwater Science 2025 Annual Meeting*](https://sfs-2025.p.asnevents.com.au/days/2025-05-19/abstract/117931).
 - **[2025/04]** Our collaborative study introducing spatial reasoning-enhanced multimodal LLMs for CAD model synthesis has been accepted by [*AAAI-25*](https://ojs.aaai.org/index.php/AAAI/article/view/32849).
@@ -45,6 +46,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - [1] **Yang J**, Xu J, Zhang X, Wu C, Lin T, & Ying Y (2019). Deep learning for vibrational spectral analysis: Recent progress and a practical guide. ***Analytica Chimica Acta***, 1081, 6-17. [Link](https://www.sciencedirect.com/science/article/pii/S0003267019307342)
 
 ### Coauthor Publications
+- [10] Sun Z, **Yang J**, Zheng Y, Liu P, Ma C, Hu D, Ying Y, & Xie L. (2025). Explicable attention mechanism for diameter correction in predicting soluble solids content of fruits. ***Computers and Electronics in Agriculture***, 239, 110848. [Link](https://www.sciencedirect.com/science/article/pii/S01681699250095)
 - [9] Ma Z, Peng B, Yue Z, Zeng H, Pan M, **Yang J**, Mai L, & Guan K (2025). Embracing Large Language Model (LLM) Technologies in Hydrology Research. ***Environmental Research: Water***, 1, 022001. [Link](https://iopscience.iop.org/article/10.1088/3033-4942/addd43)
 - [8] Wang S, Chen C, Le X, Xu Q, Xu L, Zhang Y, & **Yang J** (2025). CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs. ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-25)***, 39(8), 7880-7888. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/32849)
 - [7] Sun Z, **Yang J**, Yao Y, Hu D, Ying Y, Guo J, & Xie L (2025). Knowledge-guided temperature correction method for soluble solids content detection of watermelon based on Vis/NIR spectroscopy. ***Artificial Intelligence in Agriculture***, 15(1), 88-97. [Link](https://www.sciencedirect.com/science/article/pii/S2589721725000042)
