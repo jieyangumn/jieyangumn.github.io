@@ -7,7 +7,6 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## Research Interests
-
 - **Biogeochemical Processes in Agroecosystems:** Water-carbon-nitrogen nexus, agricultural hydrology.
 - **Satellite-based Cropland Monitoring:** Land use/cover mapping, crop yield prediction.
 - **Postharvest Technologies for Agroproducts:** Food quality control, spectral/image processing.
@@ -59,7 +58,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## Academic Services and Honors
-- **Manuscript Reviewer** for peer-reviewed journals including *Computers and Electronics in Agriculture*, *Journal of Hydrology*, *Journal of Field Robotics*, etc.
-- **Impactful Research Awardee**, 2024 UMN Postdoc Awards (*1 of 4 recipients across the University of Minnesota System*).
+- **Impactful Research Award**, 2024 UMN Postdoc Awards (*1 of 4 recipients across the University of Minnesota*).
 - **Session Convener (Early Career)**, 2025 American Geophysical Union Annual Meeting (AGU25).
 - **Program Committee Member**, 2026 AAAI Conference on Artificial Intelligence (AAAI-26).
+- **Manuscript Reviewer** for peer-reviewed journals including *Computers and Electronics in Agriculture*, *Journal of Hydrology*, *Journal of Field Robotics*, *Engineering Applications of Artificial Intelligence*, and *Smart Agricultural Technology*, among others.
