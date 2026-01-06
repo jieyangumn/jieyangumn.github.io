@@ -45,6 +45,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - [1] **Yang J**, Xu J, Zhang X, Wu C, Lin T, & Ying Y (2019). Deep learning for vibrational spectral analysis: Recent progress and a practical guide. ***Analytica Chimica Acta***, 1081, 6-17. [Link](https://www.sciencedirect.com/science/article/pii/S0003267019307342)
 
 ### Coauthor Publications
+- [11] Xu X, Yang M, **Yang J**, Yin H, Chen Y, Lan W, Sun G, Wang X, Zhang S, & Zhang X (2026). SpecColorNet: An interpretable multimodal deep learning approach for predicting SSC of multiple pears. ***Artificial Intelligence in Agriculture***, 16(1), 619-629. [Link](https://www.sciencedirect.com/science/article/pii/S2589721725001114)
 - [10] Sun Z, **Yang J**, Zheng Y, Liu P, Ma C, Hu D, Ying Y, & Xie L. (2025). Explicable attention mechanism for diameter correction in predicting soluble solids content of fruits. ***Computers and Electronics in Agriculture***, 239, 110848. [Link](https://www.sciencedirect.com/science/article/pii/S0168169925009548)
 - [9] Ma Z, Peng B, Yue Z, Zeng H, Pan M, **Yang J**, Mai L, & Guan K (2025). Embracing Large Language Model (LLM) Technologies in Hydrology Research. ***Environmental Research: Water***, 1, 022001. [Link](https://iopscience.iop.org/article/10.1088/3033-4942/addd43)
 - [8] Wang S, Chen C, Le X, Xu Q, Xu L, Zhang Y, & **Yang J** (2025). CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs. ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-25)***, 39(8), 7880-7888. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/32849)
@@ -59,6 +60,6 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ## Academic Services and Honors
 - **Impactful Research Award**, 2024 UMN Postdoc Awards (*1 of 4 recipients across the University of Minnesota*).
-- **Session Convener (Early Career)**, 2025 American Geophysical Union Annual Meeting (AGU25).
+- **Session Convener**, 2025 American Geophysical Union Annual Meeting (AGU25).
 - **Program Committee Member**, 2026 AAAI Conference on Artificial Intelligence (AAAI-26).
-- **Manuscript Reviewer** for peer-reviewed journals including *Computers and Electronics in Agriculture*, *Journal of Hydrology*, *Journal of Field Robotics*, *Engineering Applications of Artificial Intelligence*, and *Smart Agricultural Technology*, among others.
+- **Manuscript Reviewer** for peer-reviewed journals including *Computers and Electronics in Agriculture*, *Journal of Hydrology*, *Journal of Field Robotics*, *Engineering Applications of Artificial Intelligence*, *Frontiers in Plant Science*, *Hydrological Processes*, and *Smart Agricultural Technology*, among others.
