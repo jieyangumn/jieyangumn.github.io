@@ -14,26 +14,26 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ## News
 
-- **[2026/01]** Our study on knowledge-guided graph machine learning for improving corn yield mapping in the U.S. Midwest has been accepted by [*Remote Sensing of Environment*](https://www.sciencedirect.com/journal/remote-sensing-of-environment).
+- **[2026/01]** Our study on knowledge-guided graph machine learning for improving crop yield mapping in the U.S. Midwest has been accepted by [*Remote Sensing of Environment*](https://www.sciencedirect.com/journal/remote-sensing-of-environment).
 - **[2026/01]** Our study on the design and field testing of a lower-cost nitrate water-quality sensor has been published in [*ACS ES&T Water*](https://pubs.acs.org/doi/10.1021/acsestwater.5c00837).
 - **[2026/01]** Our review on structure-engineered colorimetric sensors for volatile amine detection has been published in [*Trends in Analytical Chemistry*](https://www.sciencedirect.com/science/article/pii/S0165993626000166).
 - **[2025/12]** Our study introducing an interpretable multimodal deep learning framework for fruit quality control has been published in [*Artificial Intelligence in Agriculture*](https://www.sciencedirect.com/science/article/pii/S2589721725001114).
-- **[2025/12]** I presented two oral talks at the AGU25 on our advances in knowledge-guided graph machine learning, with a focus on [Nutrient transport modeling](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1923401) and [Crop yield mapping](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1971569).
+- **[2025/12]** I presented two oral talks at AGU25 on our advances in knowledge-guided graph machine learning, with a focus on large-scale [nutrient transport modeling](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1923401) and [crop yield mapping](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1971569).
 - **[2025/08]** Our study on explicable attention mechanisms to improve fruit quality control has been published in [*Computers and Electronics in Agriculture*](https://www.sciencedirect.com/science/article/pii/S0168169925009548).
 - **[2025/06]** Our perspective article exploring the application of LLMs in hydrology has been published in [*Environmental Research: Water*](https://iopscience.iop.org/article/10.1088/3033-4942/addd43).
-- **[2025/05]** I gave a talk on spatially distributed watershed modeling in the Upper Mississippi River Basin at [*Society for Freshwater Science 2025 Annual Meeting*](https://sfs-2025.p.asnevents.com.au/days/2025-05-19/abstract/117931).
-- **[2025/04]** Our collaborative study introducing spatial reasoning-enhanced multimodal LLMs for CAD model synthesis has been accepted by [*AAAI-25*](https://ojs.aaai.org/index.php/AAAI/article/view/32849).
-- **[2025/01]** A collaborative study has been published in [*Artificial Intelligence in Agriculture*](https://www.sciencedirect.com/science/article/pii/S2589721725000042).
-- **[2024/12]** I have delivered a talk on our graph machine learning approach for watershed nutrients prediction at [*American Geophysical Union Annual Meeting (AGU24)*](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/235613).
-- **[2024/10]** A collaborative study has been published in [*Food Chemistry*](https://www.sciencedirect.com/science/article/pii/S0308814624031388).
-- **[2024/09]** I’m excited to start my new postdoctoral position at [*UIUC*](https://asc.illinois.edu/).
+- **[2025/05]** I presented a talk on spatially distributed watershed modeling in the Upper Mississippi River Basin at [*Society for Freshwater Science 2025 Annual Meeting*](https://sfs-2025.p.asnevents.com.au/days/2025-05-19/abstract/117931).
+- **[2025/04]** Our study introducing spatial reasoning-enhanced multimodal LLMs for CAD model synthesis has been accepted by [*AAAI-25*](https://ojs.aaai.org/index.php/AAAI/article/view/32849).
+- **[2025/01]** Our study proposing a knowledge-guided learning approach has been published in [*Artificial Intelligence in Agriculture*](https://www.sciencedirect.com/science/article/pii/S2589721725000042).
+- **[2024/12]** I delivered a talk on our graph machine learning approach for watershed nutrients prediction at [*American Geophysical Union Annual Meeting (AGU24)*](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/235613).
+- **[2024/10]** Our study on multi-source data fusion has been published in [*Food Chemistry*](https://www.sciencedirect.com/science/article/pii/S0308814624031388).
+- **[2024/09]** I’m excited to start my new postdoctoral position at [*University of Illinois Urbana-Champaign (UIUC)*](https://asc.illinois.edu/).
 - **[2024/09]** I’m glad to share that I’ve been recognized as a winner in the Impactful Research category at the [*2024 UMN Postdoc Awards*](https://pda.umn.edu/awards/annual-umn-postdoc-awards/2024).
-- **[2024/09]** A collaborative study has been published in [*Postharvest Biology and Technology*](https://www.sciencedirect.com/science/article/pii/S092552142400423X).
-- **[2024/07]** Our study on reviewing advanced chemometrics toward robust spectral analysis for fruit quality control has been published in [*Trends in Food Science & Technology*](https://www.sciencedirect.com/science/article/abs/pii/S0924224424002887).
-- **[2024/06]** I have presented a poster on our sensor-model fusion framework for sustainable soil nutrient management at [*NSF Signals in the Soil (SitS) Workshop*](https://padlet.com/jenniferwickens/hybrid-sits-workshop-25-27-june-2024-e50s22hpitxcvkhx).
+- **[2024/09]** Our study introducing a knowledge-guided method to improve spectroscopy-based fruit quality control has been published in [*Postharvest Biology and Technology*](https://www.sciencedirect.com/science/article/pii/S092552142400423X).
+- **[2024/07]** Our review on advanced chemometrics for robust spectral analysis in fruit quality control has been published in [*Trends in Food Science & Technology*](https://www.sciencedirect.com/science/article/abs/pii/S0924224424002887).
+- **[2024/06]** I presented a poster on a sensor-model fusion framework for sustainable soil nutrient management at [*NSF Signals in the Soil (SitS) Workshop*](https://padlet.com/jenniferwickens/hybrid-sits-workshop-25-27-june-2024-e50s22hpitxcvkhx).
 - **[2024/06]** Our study on mitigating model uncertainty in fruit quality control using knowledge-guided machine learning has been published in [*Postharvest Biology and Technology*](https://www.sciencedirect.com/science/article/pii/S0925521424002540).
-- **[2024/04]** I have delivered a poster presentation on our research simulating nitrogen dynamics at the crop field scale at [*ASABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
-- **[2024/03]** A collaborative study on fairness-aware GNNs has been accepted by [*AAAI-24*](https://ojs.aaai.org/index.php/AAAI/article/view/30212).
+- **[2024/04]** I presented a poster on simulating nitrogen dynamics at the crop field scale at [*ASABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
+- **[2024/03]** Our study on fairness-aware GNNs has been accepted by [*AAAI-24*](https://ojs.aaai.org/index.php/AAAI/article/view/30212).
 - **[2024/01]** Our study on large-scale winter wheat mapping based on satellite imagery and harvester trajectory has been published in [*Computers and Electronics in Agriculture*](https://www.sciencedirect.com/science/article/pii/S016816992300875X).
 
 
