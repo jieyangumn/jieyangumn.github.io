@@ -13,6 +13,12 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## News
+
+- **[2026/01]** Our study on knowledge-guided graph machine learning for improving corn yield mapping in the U.S. Midwest has been accepted by [*Remote Sensing of Environment*](https://www.sciencedirect.com/journal/remote-sensing-of-environment).
+- **[2026/01]** Our study on the design and field testing of a lower-cost nitrate water-quality sensor has been published in [*ACS ES&T Water*](https://pubs.acs.org/doi/10.1021/acsestwater.5c00837).
+- **[2026/01]** Our review on structure-engineered colorimetric sensors for volatile amine detection has been published in [*Trends in Analytical Chemistry*](https://www.sciencedirect.com/science/article/pii/S0165993626000166).
+- **[2025/12]** Our study introducing an interpretable multimodal deep learning framework for fruit quality control has been published in [*Artificial Intelligence in Agriculture*](https://www.sciencedirect.com/science/article/pii/S2589721725001114).
+- **[2025/12]** I presented two oral talks at American Geophysical Union Annual Meeting (AGU25) on our advances in knowledge-guided graph machine learning, with a focus on [Nutrient transport modeling](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1923401) and [Crop yield mapping](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1971569).
 - **[2025/08]** Our study on explicable attention mechanisms to improve fruit quality control has been published in [*Computers and Electronics in Agriculture*](https://www.sciencedirect.com/science/article/pii/S0168169925009548).
 - **[2025/06]** Our perspective article exploring the application of LLMs in hydrology has been published in [*Environmental Research: Water*](https://iopscience.iop.org/article/10.1088/3033-4942/addd43).
 - **[2025/05]** I gave a talk on spatially distributed watershed modeling in the Upper Mississippi River Basin at [*Society for Freshwater Science 2025 Annual Meeting*](https://sfs-2025.p.asnevents.com.au/days/2025-05-19/abstract/117931).
@@ -36,7 +42,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 ### First/Corresponding Author Publications 
 (* for corresponding author, # for equal contribution)
 
-- [8] **Yang J**, Liu L, Yang Q, Jia X, Peng B, Guan K, & Jin Z (2026). Knowledge-guided graph machine learning improves corn yield mapping in the U.S. Midwest. ***Remote Sensing of Environment***.
+- [8] **Yang J**, Liu L, Yang Q, Jia X, Peng B, Guan K, & Jin Z (2026). Knowledge-guided graph machine learning improves corn yield mapping in the U.S. Midwest. ***Remote Sensing of Environment***. Accepted.
 - [7] Zhang X & **Yang J&#42;** (2024). Advanced chemometrics toward robust spectral analysis for fruit quality evaluation. ***Trends in Food Science & Technology***, 150, 104612. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0924224424002887)
 - [6] **Yang J**, Sun Z, Tian S, Jiang H, Feng J, Ting KC, Lin T, & Ying Y (2024). Enhancing spectroscopy-based fruit quality control: A knowledge-guided machine learning approach to reduce model uncertainty. ***Postharvest Biology and Technology***, 216, 113009. [Link](https://www.sciencedirect.com/science/article/pii/S0925521424002540)
 - [5] Xiong X#, **Yang J#**, Zhong R, Dong J, Huang J, Ting KC, Ying Y, & Lin T (2024). Integration of harvester trajectory and satellite imagery for large-scale winter wheat mapping using deep positive and unlabeled learning. ***Computers and Electronics in Agriculture***, 216, 108487. [Link](https://www.sciencedirect.com/science/article/pii/S016816992300875X)
@@ -46,6 +52,8 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - [1] **Yang J**, Xu J, Zhang X, Wu C, Lin T, & Ying Y (2019). Deep learning for vibrational spectral analysis: Recent progress and a practical guide. ***Analytica Chimica Acta***, 1081, 6-17. [Link](https://www.sciencedirect.com/science/article/pii/S0003267019307342)
 
 ### Coauthor Publications
+- [13] Furuta D, **Yang J**, Liu L, Jin Z, Guan K, Peng B, & Li J (2026). Design and test of a lower-cost water-quality sensor for nitrate. ***ACS ES&T Water***. [Link](https://pubs.acs.org/doi/10.1021/acsestwater.5c00837)
+- [12] Peng B, Li Y, Qin J, Qiao Z, Li Y, **Yang J**, Zhou P, Zhao X, Kuang Y, Wu K, & Jiang F (2026). Structure-engineered colorimetric sensors for volatile amine detection: Advances in freshness monitoring of meat and aquatic products. ***Trends in Analytical Chemistry***, 196, 118661. [Link](https://www.sciencedirect.com/science/article/pii/S0165993626000166)
 - [11] Xu X, Yang M, **Yang J**, Yin H, Chen Y, Lan W, Sun G, Wang X, Zhang S, & Zhang X (2026). SpecColorNet: An interpretable multimodal deep learning approach for predicting SSC of multiple pears. ***Artificial Intelligence in Agriculture***, 16(1), 619-629. [Link](https://www.sciencedirect.com/science/article/pii/S2589721725001114)
 - [10] Sun Z, **Yang J**, Zheng Y, Liu P, Ma C, Hu D, Ying Y, & Xie L. (2025). Explicable attention mechanism for diameter correction in predicting soluble solids content of fruits. ***Computers and Electronics in Agriculture***, 239, 110848. [Link](https://www.sciencedirect.com/science/article/pii/S0168169925009548)
 - [9] Ma Z, Peng B, Yue Z, Zeng H, Pan M, **Yang J**, Mai L, & Guan K (2025). Embracing Large Language Model (LLM) Technologies in Hydrology Research. ***Environmental Research: Water***, 1, 022001. [Link](https://iopscience.iop.org/article/10.1088/3033-4942/addd43)
@@ -63,4 +71,4 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - **Impactful Research Award**, 2024 UMN Postdoc Awards (*1 of 4 recipients across the University of Minnesota*).
 - **Session Convener**, 2025 American Geophysical Union Annual Meeting (AGU25).
 - **Program Committee Member**, 2026 AAAI Conference on Artificial Intelligence (AAAI-26).
-- **Manuscript Reviewer** for peer-reviewed journals including *Computers and Electronics in Agriculture*, *Journal of Hydrology*, *Journal of Field Robotics*, *Engineering Applications of Artificial Intelligence*, *Frontiers in Plant Science*, *Hydrological Processes*, and *Smart Agricultural Technology*, among others.
+- **Manuscript Reviewer** for peer-reviewed journals including *Computers and Electronics in Agriculture*, *Food Chemistry*, *Journal of Hydrology*, *Journal of Field Robotics*, *Engineering Applications of Artificial Intelligence*, *Frontiers in Plant Science*, *Hydrological Processes*, and *Smart Agricultural Technology*, among others.
