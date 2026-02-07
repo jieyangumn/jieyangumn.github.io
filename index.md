@@ -13,9 +13,8 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## News
-
 - **[2026/02]** Our study on knowledge-guided graph machine learning for large-scale crop yield mapping has been published in [*Remote Sensing of Environment*](https://www.sciencedirect.com/science/article/pii/S003442572600057X).
-- **[2026/01]** Our study on the design and field testing of a lower-cost nitrate water-quality sensor has been published in [*ACS ES&T Water*](https://pubs.acs.org/doi/10.1021/acsestwater.5c00837).
+- **[2026/01]** Our study on design and field testing of a lower-cost nitrate sensor has been published in [*ACS ES&T Water*](https://pubs.acs.org/doi/10.1021/acsestwater.5c00837).
 - **[2026/01]** Our study on hyperspectral imaging-based early plant disease detection has been published in [*Future Foods*](https://www.sciencedirect.com/science/article/pii/S2666833526000316).
 - **[2026/01]** Our review on structure-engineered colorimetric sensors for volatile amine detection has been published in [*Trends in Analytical Chemistry*](https://www.sciencedirect.com/science/article/pii/S0165993626000166).
 - **[2025/12]** Our study introducing an interpretable multimodal deep learning framework for fruit quality control has been published in [*Artificial Intelligence in Agriculture*](https://www.sciencedirect.com/science/article/pii/S2589721725001114).
