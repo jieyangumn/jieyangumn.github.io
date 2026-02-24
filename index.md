@@ -74,4 +74,4 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - **Impactful Research Award**, 2024 UMN Postdoc Awards (*1 of 4 recipients across the University of Minnesota*).
 - **Session Convener**, 2025 American Geophysical Union Annual Meeting (AGU25).
 - **Program Committee Member**, 2026 AAAI Conference on Artificial Intelligence (AAAI-26).
-- **Manuscript Reviewer** for peer-reviewed journals including *Computers and Electronics in Agriculture*, *International Journal of Applied Earth Observation and Geoinformation*, *Food Chemistry*, *Journal of Hydrology*, *Journal of Field Robotics*, *Engineering Applications of Artificial Intelligence*, *Hydrological Processes*, and *Smart Agricultural Technology*, among others.
+- **Manuscript Reviewer** for peer-reviewed journals including *Remote Sensing of Environment*, *Computers and Electronics in Agriculture*, *International Journal of Applied Earth Observation and Geoinformation*, *Journal of Hydrology*, *Journal of Field Robotics*, *Food Chemistry*, *Engineering Applications of Artificial Intelligence*, *Hydrological Processes*, and *Smart Agricultural Technology*, among others.
