@@ -77,4 +77,3 @@ In revision at ***Proceedings of the National Academy of Sciences***.
 - **Session Convener**, 2025 American Geophysical Union Annual Meeting (AGU25).
 - **Program Committee Member**, 2026 AAAI Conference on Artificial Intelligence (AAAI-26).
 - **Manuscript Reviewer** for peer-reviewed journals including *Remote Sensing of Environment*, *Journal of Hydrology*, *Computers and Electronics in Agriculture*, *Journal of Field Robotics*, *Food Chemistry*, *International Journal of Applied Earth Observation and Geoinformation*, *Engineering Applications of Artificial Intelligence*, *Hydrological Processes*, and *Smart Agricultural Technology*, among others.
-- 
