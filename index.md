@@ -7,9 +7,8 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## Research Interests
-- **Agroecosystem Intelligence:** Soil-water-nutrient interactions, agricultural hydrology, and water quality.
-- **Satellite-Based Crop Monitoring:** Land use/cover mapping, multi-source sensing, and crop yield prediction.
-- **Data-Driven Agri-Food Systems:** Robotic sensing, spectral/image processing, and food quality monitoring.
+- **Agroecosystem Intelligence:** Knowledge-guided modeling for soil-water-nutrient interactions, agricultural hydrology, and water quality.
+- **Precision Agriculture:** Multi-scale sensing and data integration for cropland monitoring, yield prediction, and food quality assessment.
 
 
 ## News
