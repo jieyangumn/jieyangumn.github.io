@@ -53,6 +53,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 - [1] **Yang J**, Xu J, Zhang X, Wu C, Lin T, & Ying Y (2019). Deep learning for vibrational spectral analysis: Recent progress and a practical guide. ***Analytica Chimica Acta***, 1081, 6-17. [Link](https://www.sciencedirect.com/science/article/pii/S0003267019307342)
 
 ### Coauthor Publications
+- [16] Song Y, et al. (including **Yang J**). Watershed-typology-based conservation prioritization improves cost-effectiveness of nitrogen loss reduction. Under Review.
 - [15] Hu M, et al. (including **Yang J**). Hydrologic connectivity amplifies riverine N₂O emission hotspots and hot moments across the continental United States.
 In revision at ***Proceedings of the National Academy of Sciences***.
 - [14] Yang M, Xu X, Wang X, **Yang J**, Zhang X, Pan Q, Wang C, & Zhang X (2026). Enhancing early detection of mango anthracnose using hyperspectral imaging and 3D-CNNs. ***Future Foods***, 13, 100929. [Link](https://www.sciencedirect.com/science/article/pii/S2666833526000316)
@@ -75,4 +76,4 @@ In revision at ***Proceedings of the National Academy of Sciences***.
 - **Impactful Research Award**, 2024 UMN Postdoc Awards (*1 of 4 recipients across the University of Minnesota*).
 - **Session Convener**, 2025 American Geophysical Union Annual Meeting (AGU25).
 - **Program Committee Member**, 2026 AAAI Conference on Artificial Intelligence (AAAI-26).
-- **Manuscript Reviewer** for peer-reviewed journals including *Remote Sensing of Environment*, *Journal of Hydrology*, *Computers and Electronics in Agriculture*, *Journal of Field Robotics*, *Food Chemistry*, *International Journal of Applied Earth Observation and Geoinformation*, *Hydrological Processes*, *Engineering Applications of Artificial Intelligence*, and *Smart Agricultural Technology*.
+- **Manuscript Reviewer** for peer-reviewed journals including *Remote Sensing of Environment*, *Journal of Hydrology*, *Computers and Electronics in Agriculture*, *Journal of Field Robotics*, *Food Chemistry*, *Ecological Informatics*, *International Journal of Applied Earth Observation and Geoinformation*, *Hydrological Processes*, *Engineering Applications of Artificial Intelligence*, and *Smart Agricultural Technology*.
