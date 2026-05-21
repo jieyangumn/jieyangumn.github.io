@@ -54,8 +54,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ### Coauthor Publications
 - [16] Song Y, et al. (including **Yang J**). Watershed-typology-based conservation prioritization improves cost-effectiveness of nitrogen loss reduction. Under Review.
-- [15] Hu M, et al. (including **Yang J**). Hydrologic connectivity amplifies riverine N₂O emission hotspots and hot moments across the continental United States.
-In revision at ***Proceedings of the National Academy of Sciences***.
+- [15] Hu M, Yu Z, Griffis T J, Aho K, Wang Y, **Yang J**, Yang W H, Bernacchi C J, McGrath J M, Dahlgren R, Tian H, & Baker J M (2026). Hydrologic connectivity amplifies riverine N₂O emission hotspots and hot moments across the continental United States. ***Proceedings of the National Academy of Sciences***, In press.
 - [14] Yang M, Xu X, Wang X, **Yang J**, Zhang X, Pan Q, Wang C, & Zhang X (2026). Enhancing early detection of mango anthracnose using hyperspectral imaging and 3D-CNNs. ***Future Foods***, 13, 100929. [Link](https://www.sciencedirect.com/science/article/pii/S2666833526000316)
 - [13] Furuta D, **Yang J**, Liu L, Jin Z, Guan K, Peng B, & Li J (2026). Design and test of a lower-cost water-quality sensor for nitrate. ***ACS ES&T Water***, 6(2), 709−719. [Link](https://pubs.acs.org/doi/10.1021/acsestwater.5c00837)
 - [12] Peng B, Li Y, Qin J, Qiao Z, Li Y, **Yang J**, Zhou P, Zhao X, Kuang Y, Wu K, & Jiang F (2026). Structure-engineered colorimetric sensors for volatile amine detection: Advances in freshness monitoring of meat and aquatic products. ***Trends in Analytical Chemistry***, 196, 118661. [Link](https://www.sciencedirect.com/science/article/pii/S0165993626000166)
