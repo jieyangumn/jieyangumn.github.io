@@ -7,8 +7,8 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## Research Interests
-- **Agroecosystem Modeling:** Knowledge-guided AI for understanding soil-water-nutrient interactions and their impacts on hydrology, water quality, and sustainability.
-- **Digital Agriculture:** Multi-scale sensing (from satellite to in situ) and data integration for cropland and watershed monitoring, crop yield prediction, and food quality assessment.
+- **Agroecosystem Modeling:** Knowledge-guided AI for understanding soil-water-nutrient interactions and their impacts on hydrology and water quality across agricultural landscapes.
+- **Digital Agriculture:** Multi-scale sensing (from satellite to in situ) and data integration for cropland monitoring, crop yield prediction, and food and agro-product quality assessment.
 
 
 ## News
@@ -39,21 +39,19 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ## Publications
 
-### First/Corresponding Author Publications 
+#### First/Corresponding Author Publications 
 (* for corresponding author, # for equal contribution)
+- [24]	**Yang J**, Peng B, Wang Y, Ma Z, Zhao Q, Liu L, Jia X, Kumar V, Pan M, Nieber J, Jin Z, & Guan K (2026). Knowledge-guided graph machine learning for spatially distributed prediction of daily discharge and nitrogen export dynamics. ***Water Research***, 297, 125613. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0043135426002964) 
+- [23] **Yang J**, Liu L, Yang Q, Jia X, Peng B, Guan K, & Jin Z (2026). Knowledge-guided graph machine learning improves corn yield mapping in the U.S. Midwest. ***Remote Sensing of Environment***, 335, 115287. [Link](https://www.sciencedirect.com/science/article/pii/S003442572600057X)
+- [22] Zhang X & **Yang J&#42;** (2024). Advanced chemometrics toward robust spectral analysis for fruit quality evaluation. ***Trends in Food Science & Technology***, 150, 104612. *(ESI Highly Cited Paper)* [Link](https://www.sciencedirect.com/science/article/abs/pii/S0924224424002887)
+- [21] **Yang J**, Sun Z, Tian S, Jiang H, Feng J, Ting KC, Lin T, & Ying Y (2024). Enhancing spectroscopy-based fruit quality control: A knowledge-guided machine learning approach to reduce model uncertainty. ***Postharvest Biology and Technology***, 216, 113009. [Link](https://www.sciencedirect.com/science/article/pii/S0925521424002540)
+- [20] Xiong X#, **Yang J#**, Zhong R, Dong J, Huang J, Ting KC, Ying Y, & Lin T (2024). Integration of harvester trajectory and satellite imagery for large-scale winter wheat mapping using deep positive and unlabeled learning. ***Computers and Electronics in Agriculture***, 216, 108487. [Link](https://www.sciencedirect.com/science/article/pii/S016816992300875X)
+- [19] **Yang J**, Luo X, Zhang X, Passos D, Xie L, Rao X, Xu H, Ting KC, Lin T, & Ying Y (2022). A deep learning approach to improving spectral analysis of fruit quality under interseason variation. ***Food Control***, 140, 109108. [Link](https://www.sciencedirect.com/science/article/pii/S0956713522003012)
+- [18] **Yang J**, Li J, Hu J, Yang W, Zhang X, Xu J, Zhang Y, Luo X, Ting KC, Lin T, & Ying Y (2022). An interpretable deep learning approach for calibration transfer among multiple near-infrared instruments. ***Computers and Electronics in Agriculture***, 192, 106584. [Link](https://www.sciencedirect.com/science/article/pii/S0168169921006013)
+- [17] Xu J#, **Yang J#**, Xiong X, Li H, Huang J, Ting KC, Ying Y, & Lin T (2021). Towards interpreting multi-temporal deep learning models in crop mapping. ***Remote Sensing of Environment***, 264, 112599. *(ESI Highly Cited Paper)* [Link](https://www.sciencedirect.com/science/article/pii/S0034425721003199)
+- [16] **Yang J**, Xu J, Zhang X, Wu C, Lin T, & Ying Y (2019). Deep learning for vibrational spectral analysis: Recent progress and a practical guide. ***Analytica Chimica Acta***, 1081, 6-17. [Link](https://www.sciencedirect.com/science/article/pii/S0003267019307342)
 
-- [9]	**Yang J**, Peng B, Wang Y, Ma Z, Zhao Q, Liu L, Jia X, Kumar V, Pan M, Nieber J, Jin Z, & Guan K (2026). Knowledge-guided graph machine learning for spatially distributed prediction of daily discharge and nitrogen export dynamics. ***Water Research***, 297, 125613. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0043135426002964) 
-- [8] **Yang J**, Liu L, Yang Q, Jia X, Peng B, Guan K, & Jin Z (2026). Knowledge-guided graph machine learning improves corn yield mapping in the U.S. Midwest. ***Remote Sensing of Environment***, 335, 115287. [Link](https://www.sciencedirect.com/science/article/pii/S003442572600057X)
-- [7] Zhang X & **Yang J&#42;** (2024). Advanced chemometrics toward robust spectral analysis for fruit quality evaluation. ***Trends in Food Science & Technology***, 150, 104612. *(ESI Highly Cited Paper)* [Link](https://www.sciencedirect.com/science/article/abs/pii/S0924224424002887)
-- [6] **Yang J**, Sun Z, Tian S, Jiang H, Feng J, Ting KC, Lin T, & Ying Y (2024). Enhancing spectroscopy-based fruit quality control: A knowledge-guided machine learning approach to reduce model uncertainty. ***Postharvest Biology and Technology***, 216, 113009. [Link](https://www.sciencedirect.com/science/article/pii/S0925521424002540)
-- [5] Xiong X#, **Yang J#**, Zhong R, Dong J, Huang J, Ting KC, Ying Y, & Lin T (2024). Integration of harvester trajectory and satellite imagery for large-scale winter wheat mapping using deep positive and unlabeled learning. ***Computers and Electronics in Agriculture***, 216, 108487. [Link](https://www.sciencedirect.com/science/article/pii/S016816992300875X)
-- [4] **Yang J**, Luo X, Zhang X, Passos D, Xie L, Rao X, Xu H, Ting KC, Lin T, & Ying Y (2022). A deep learning approach to improving spectral analysis of fruit quality under interseason variation. ***Food Control***, 140, 109108. [Link](https://www.sciencedirect.com/science/article/pii/S0956713522003012)
-- [3] **Yang J**, Li J, Hu J, Yang W, Zhang X, Xu J, Zhang Y, Luo X, Ting KC, Lin T, & Ying Y (2022). An interpretable deep learning approach for calibration transfer among multiple near-infrared instruments. ***Computers and Electronics in Agriculture***, 192, 106584. [Link](https://www.sciencedirect.com/science/article/pii/S0168169921006013)
-- [2] Xu J#, **Yang J#**, Xiong X, Li H, Huang J, Ting KC, Ying Y, & Lin T (2021). Towards interpreting multi-temporal deep learning models in crop mapping. ***Remote Sensing of Environment***, 264, 112599. *(ESI Highly Cited Paper)* [Link](https://www.sciencedirect.com/science/article/pii/S0034425721003199)
-- [1] **Yang J**, Xu J, Zhang X, Wu C, Lin T, & Ying Y (2019). Deep learning for vibrational spectral analysis: Recent progress and a practical guide. ***Analytica Chimica Acta***, 1081, 6-17. [Link](https://www.sciencedirect.com/science/article/pii/S0003267019307342)
-
-### Coauthor Publications
-- [16] Song Y, et al. (including **Yang J**). Watershed-typology-based conservation prioritization improves cost-effectiveness of nitrogen loss reduction. Under Review.
+#### Coauthor Publications
 - [15] Hu M, Yu Z, Griffis T J, Aho K, Wang Y, **Yang J**, Yang W H, Bernacchi C J, McGrath J M, Dahlgren R, Tian H, & Baker J M (2026). Hydrologic connectivity amplifies riverine N₂O emission hotspots and hot moments across the continental United States. ***Proceedings of the National Academy of Sciences***, In press.
 - [14] Yang M, Xu X, Wang X, **Yang J**, Zhang X, Pan Q, Wang C, & Zhang X (2026). Enhancing early detection of mango anthracnose using hyperspectral imaging and 3D-CNNs. ***Future Foods***, 13, 100929. [Link](https://www.sciencedirect.com/science/article/pii/S2666833526000316)
 - [13] Furuta D, **Yang J**, Liu L, Jin Z, Guan K, Peng B, & Li J (2026). Design and test of a lower-cost water-quality sensor for nitrate. ***ACS ES&T Water***, 6(2), 709−719. [Link](https://pubs.acs.org/doi/10.1021/acsestwater.5c00837)
@@ -72,7 +70,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 
 ## Academic Services and Honors
-- **Impactful Research Award**, 2024 UMN Postdoc Awards (*1 of 4 recipients across the University of Minnesota*).
-- **Session Convener**, 2025 American Geophysical Union Annual Meeting (AGU25).
+- **Impactful Research Award**, University of Minnesota Postdoctoral Recognition Awards, 2024 (*1 of 4 recipients university-wide*).
+- **Session Convener**, Sustainable Agriculture and Climate Change: Toward Decarbonization of Agrifood Systems, 2025 American Geophysical Union Annual Meeting (AGU25).
 - **Program Committee Member**, 2026 AAAI Conference on Artificial Intelligence (AAAI-26).
 - **Manuscript Reviewer** for peer-reviewed journals including *Remote Sensing of Environment*, *Journal of Hydrology*, *Computers and Electronics in Agriculture*, *Journal of Field Robotics*, *Food Chemistry*, *Ecological Informatics*, *International Journal of Applied Earth Observation and Geoinformation*, *Hydrological Processes*, *Engineering Applications of Artificial Intelligence*, and *Smart Agricultural Technology*.
