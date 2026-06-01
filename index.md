@@ -8,7 +8,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ## Research Interests
 - **Agroecosystem Modeling:** Knowledge-guided AI for understanding soil-water-nutrient interactions and their impacts on hydrology and water quality across agricultural landscapes.
-- **Digital Agriculture:** Multi-scale sensing (from satellite to in situ) and data integration for cropland monitoring, crop yield prediction, and food and agro-product quality assessment.
+- **Digital Agriculture:** Multi-scale sensing (from satellite to in situ) and modeling for cropland monitoring, crop yield prediction, and food and agro-product quality assessment.
 
 
 ## News
