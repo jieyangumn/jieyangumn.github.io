@@ -39,8 +39,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ## Publications
 
-#### First/Corresponding Author Publications 
-(* for corresponding author, # for equal contribution)
+#### First/Corresponding Author Publications (* Corresponding author, # Equal contribution)
 - [24]	**Yang J**, Peng B, Wang Y, Ma Z, Zhao Q, Liu L, Jia X, Kumar V, Pan M, Nieber J, Jin Z, & Guan K (2026). Knowledge-guided graph machine learning for spatially distributed prediction of daily discharge and nitrogen export dynamics. ***Water Research***, 297, 125613. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0043135426002964) 
 - [23] **Yang J**, Liu L, Yang Q, Jia X, Peng B, Guan K, & Jin Z (2026). Knowledge-guided graph machine learning improves corn yield mapping in the U.S. Midwest. ***Remote Sensing of Environment***, 335, 115287. [Link](https://www.sciencedirect.com/science/article/pii/S003442572600057X)
 - [22] Zhang X & **Yang J&#42;** (2024). Advanced chemometrics toward robust spectral analysis for fruit quality evaluation. ***Trends in Food Science & Technology***, 150, 104612. *(ESI Highly Cited Paper)* [Link](https://www.sciencedirect.com/science/article/abs/pii/S0924224424002887)
