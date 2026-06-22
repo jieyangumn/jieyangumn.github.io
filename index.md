@@ -13,7 +13,7 @@ I am currently a postdoctoral researcher at the University of Illinois Urbana-Ch
 
 ## News
 - **[2026/06]** Our study revealing hydrologic controls of riverine nitrous oxide (N₂O) emission hotspots and hot moments across the contiguous US has been published in [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2524113123).
-- **[2026/02]** Our study on knowledge-guided graph machine learning for daily, spatially distributed hydrology and nitrogen export modeling has been published in [*Water Research*](https://www.sciencedirect.com/science/article/abs/pii/S0043135426002964).
+- **[2026/03]** Our study on knowledge-guided graph machine learning for daily, spatially distributed hydrology and nitrogen export modeling has been published in [*Water Research*](https://www.sciencedirect.com/science/article/abs/pii/S0043135426002964).
 - **[2026/02]** Our study on knowledge-guided graph machine learning for large-scale crop yield mapping has been published in [*Remote Sensing of Environment*](https://www.sciencedirect.com/science/article/pii/S003442572600057X).
 - **[2026/01]** Our study on hyperspectral imaging-based early plant disease detection has been published in [*Future Foods*](https://www.sciencedirect.com/science/article/pii/S2666833526000316).
 - **[2026/01]** Our study on design and field testing of a lower-cost nitrate sensor has been published in [*ACS ES&T Water*](https://pubs.acs.org/doi/10.1021/acsestwater.5c00837).
